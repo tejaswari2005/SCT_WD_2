@@ -15,3 +15,5 @@ It includes:
 -fully responsive layout
 -modern UI/UX design
 -interactive sections with javascript
+ web page link
+ http://127.0.0.1:5500/responsive_landing_page/stopwatch_webapplication/index.html
